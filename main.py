@@ -12,7 +12,7 @@ bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
 # Укажите вашу дату отношений (Год, Месяц, День)
-START_DATE = datetime.date(2026, 10, 9)
+START_DATE = datetime.date(2026, 9, 10)
 
 COMPLIMENTS = [ "Ты делаешь каждый день ярче! ✨",
     "Самая красивая улыбка во вселенной 😊",
